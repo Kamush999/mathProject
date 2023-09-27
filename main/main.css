@@ -1,0 +1,10 @@
+div#left {
+    color: red;
+}
+#right {
+    color: black;
+}
+#main {
+    justify-content: space-between;
+    align-items: center;
+}
